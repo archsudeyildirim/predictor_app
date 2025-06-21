@@ -3,5 +3,5 @@ pandas
 numpy
 matplotlib
 scikit-learn
-skforecast>=0.5.0
+skforecast>=0.4.3
 openpyxl
